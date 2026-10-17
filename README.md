@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=ghost7802&label=Profile%20Views&color=0e75b6&style=for-the-badge" height="25"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ashish</h1>
+<h1 align="center">Hi 👋, I'm Eclipse Ghost</h1>
 
 <h3 align="center">
 I build things on the web — mostly focused on making them simple and actually useful.
